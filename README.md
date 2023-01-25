@@ -2,7 +2,7 @@
 
 <p align='center'><b>Connect with me on LinkedIn!</b></p>
 
-<p align='center'>
+<p align='center' paddingBottom='10px'>
   <a href="https://www.linkedin.com/in/jullian-rives-80954361/" align='center' target="_blank"  rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
