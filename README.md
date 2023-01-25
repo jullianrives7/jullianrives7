@@ -1,6 +1,7 @@
-<h1 align='center' paddingBottom='10px'> 🥁 Jullian Rives 💻</h1>
+<h1 align='center' paddingBottom='10px'> Connect with me on LinkedIn! 💻</h1>
+<!-- <h1 align='center' paddingBottom='10px'> 🥁 Jullian Rives 💻</h1> -->
 
-<p align='center'><b>Connect with me on LinkedIn!</b></p>
+<!-- <p align='center'><b>Connect with me on LinkedIn!</b></p> -->
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/jullian-rives-80954361/" align='center' target="_blank"  rel="noreferrer noopener">
