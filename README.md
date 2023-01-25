@@ -2,14 +2,15 @@
 
 <p align='center'><b>Connect with me on LinkedIn!</b></p>
 
-<p align='center' paddingBottom='400px'>
+<p align='center'>
   <a href="https://www.linkedin.com/in/jullian-rives-80954361/" align='center' target="_blank"  rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p> 
 
+#
 
-<h2 align='center' paddingBottom='10px'> Tech Stack </h2>
+<h2 align='center'> Tech Stack </h2>
 
 <p align='center'>
     <img src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" />
