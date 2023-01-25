@@ -1,5 +1,4 @@
-<h1 align='center' paddingBottom='10px'> Jullian Rives ![image](https://user-images.githubusercontent.com/114496707/214472583-6ca4f5b2-be3b-4f96-bcb6-70117233a715.png)
-</h1>
+<h1 align='center' paddingBottom='10px'> 🥁 Jullian Rives 🚀 💻</h1>
 
 <p align='center'><b>Connect with me on LinkedIn!</b></p>
 
