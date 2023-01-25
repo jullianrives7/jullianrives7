@@ -1,4 +1,4 @@
-<h1 align='center' paddingBottom='10px'> 🥁 Jullian Rives 🚀 💻</h1>
+<h1 align='center' paddingBottom='10px'> 🥁 Jullian Rives 💻</h1>
 
 <p align='center'><b>Connect with me on LinkedIn!</b></p>
 
