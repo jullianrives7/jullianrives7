@@ -1,3 +1,15 @@
+#
+
+<h2 align='center' paddingBottom='10px'> Connect with me on LinkedIn! </h2>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/jullian-rives-80954361/" align='center' target="_blank"  rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p> 
+
+#
+
 <h1 align='center'> Tech Stack </h1>
 
 <p align='center'>
@@ -30,18 +42,7 @@
   <img src="https://camo.githubusercontent.com/f868f43f3c084669121e55e633ca5c3e11d382872ab7db663789f5c736c71a43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" />
 </p>
 
-#
 
-<h2 align='center' paddingBottom='10px'> Connect with me on LinkedIn! </h2>
-<!-- <h1 align='center' paddingBottom='10px'> 🥁 Jullian Rives 💻</h1> -->
-
-<!-- <p align='center'><b>Connect with me on LinkedIn!</b></p> -->
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/jullian-rives-80954361/" align='center' target="_blank"  rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p> 
 
 
 
