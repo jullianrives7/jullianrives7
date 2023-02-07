@@ -1,6 +1,7 @@
 
 <h1 align='center' paddingBottom='10px'>
-  I'm Jullian, Welcome to my Github!   
+  ![image](https://user-images.githubusercontent.com/114496707/217351536-7dfabb75-c6d2-4bd7-a221-7cbc0fc68118.png)
+I'm Jullian, Welcome to my Github!   
   <p align="center">
        <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+Welcome+To+My+Page;Progress+Daily" />
    </p>
