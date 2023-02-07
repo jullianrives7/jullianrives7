@@ -1,5 +1,5 @@
 
-<h1 align='center' paddingBottom="10px">
+<h1 align='center' paddingBottom="-10px">
 🥁 I'm Jullian, Welcome to my Github! 💻 🥷
   <p align="center">
        <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+Welcome+To+My+Page;Progress+Daily" />
