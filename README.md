@@ -15,14 +15,17 @@
 </p>
 </br>
 
-<h2 align='center' paddingBottom='10px'> Connect with me on LinkedIn: </h2>
+<h2 align='center' paddingBottom='10px'> Connect with me on LinkedIn: 
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/jullian-rives-80954361/" align='center' target="_blank"  rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p> 
-#
+</h2>
+
+</br>
+
 <h1 align='center'> Tech Stack </h1>
 
 <p align='center'>
