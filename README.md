@@ -6,7 +6,10 @@
    </p>
 </h1>
 <p align=center>
-  <img src="https://komarev.com/ghpvc/?username=jullianrives7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=jullianrives7&style=for-the-badge" />
+  </p>
+<p align=center>
+  
   <a href="https://github.com/jullianrives7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
   </a>
 </br>
