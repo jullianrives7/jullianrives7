@@ -20,6 +20,7 @@
   <a href="https://www.linkedin.com/in/jullian-rives-80954361/" align='center' target="_blank"  rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=jullianrives7&style=for-the-badge" />
 </p>
 </br>
 
