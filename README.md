@@ -62,7 +62,6 @@
 
 <h1 align='center'> 🧰 Tech Stack, Libraries & Tools </h1>
 
-</br>
  <div align="center">
 
   <a align="center" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="150" height="150"/> </a> 
