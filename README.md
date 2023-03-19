@@ -14,12 +14,13 @@
 <!------------------------------------ Header / Intro ------------------------------------------->
 
 <h1 align='center' paddingBottom="-10px">🥁   Hi 👋, I'm Jullian... Welcome to my Github!   💻 🥷</h1>
-  <p align="center">
+  <p align='center'>
        <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+Welcome+To+My+Page;Progress+Daily" />
        <h6 align="center">A passionate software developer located in Central Texas.</h6>
   </p>
 
 <!------------------------------------------------------------------------------------------------>
+</br>
 <!------------------------------------ Views / Connect ------------------------------------------->
 
 <p align=center>
@@ -36,9 +37,10 @@
 </p>  
 
 <!------------------------------------------------------------------------------------------------>
+</br>
 <!-------------------------------------- GitHub Stats -------------------------------------------->
 
-<p align=center>
+<p align='center'>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullianrives7" alt="jullianrives7" /></a>
 </br>
@@ -55,6 +57,9 @@
  
 </p>
 
+<!------------------------------------------------------------------------------------------------>
+</br>
+<!-------------------------------------- GitHub Stats -------------------------------------------->
 
   <!--
   <a href="https://github.com/jullianrives7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
