@@ -45,7 +45,7 @@
 <!------------------------------------------------------------------------------------------------>
 </br>
 <!-------------------------------------- GitHub Stats -------------------------------------------->
-<h2 align='center'> 📈 GitHub Stats </h2>
+<h1 align='center'> 📈 GitHub Stats </h1>
 <div align="center">
   <a align='center' href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullianrives7" alt="jullianrives7" /></a>
   </br>
@@ -60,7 +60,7 @@
 </br>
 <!------------------------------ Tech Stack, Languages & Tools ------------------------------------>
 
-<h2 align='center'> 🧰 Tech Stack, Libraries & Tools </h2>
+<h1 align='center'> 🧰 Tech Stack, Libraries & Tools </h1>
 
 </br>
  <div align="center">
