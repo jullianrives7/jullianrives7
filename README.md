@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <p align='center'>
 
-  <a align="center"href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullianrives7" alt="jullianrives7" /></a>
+  <a align='center' href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullianrives7" alt="jullianrives7" /></a>
 </br>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&" alt="jullianrives7" />
  </br>
