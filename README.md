@@ -45,7 +45,7 @@
 <!------------------------------------------------------------------------------------------------>
 </br>
 <!-------------------------------------- GitHub Stats -------------------------------------------->
-
+<h2 align='center'> 📈 GitHub Stats </h2>
 <div align="center">
   <a align='center' href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullianrives7" alt="jullianrives7" /></a>
   </br>
