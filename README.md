@@ -1,32 +1,21 @@
-<!-- <h1 align="center">Hi 👋, I'm Jullian</h1>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jullianrives7&label=Profile%20views&color=0e75b6&style=flat" alt="jullianrives7" /> </p>
-
- </p>
- -->
-
-<!--
-  <a href="https://www.github.com/SCP-714"><img src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Jullian's GitHub Stats" />
+  <!--
+  <a href="https://github.com/jullianrives7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
   </a>
- </br>
- -->
+  -->
+  
+ <!--
+</br>
 
-<!--
-**jullianrives7/jullianrives7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<h3 align='center' > Connect with me on LinkedIn: </h3>
+</br>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/jullian-rives-80954361/" align='center' target="_blank"  rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+</p>
+</br>
+  -->
 
 
 
@@ -47,8 +36,8 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=jullianrives7&style=for-the-badge" />
   <h3 align="center">Connect with me:</h3>
   <p align="center">
-  <a href="https://linkedin.com/in/jullian-rives" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jullian-rives" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@theDrummersCode_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube: @theDrummersCode_7" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jullian-rives" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jullian-rives" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@theDrummersCode_7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube: @theDrummersCode_7" height="30" width="40" /></a>
   </p>
   
 </p>  
@@ -87,30 +76,6 @@ Here are some ideas to get you started:
 <!------------------------------------------------------------------------------------------------>
 </br>
 <!------------------------------ Tech Stack, Languages & Tools ------------------------------------>
-
-  <!--
-  <a href="https://github.com/jullianrives7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
-  </a>
-  -->
-  
- <!--
-</br>
-
-<h3 align='center' > Connect with me on LinkedIn: </h3>
-</br>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/jullian-rives-80954361/" align='center' target="_blank"  rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-</p>
-</br>
-  -->
-
-
-
-
-
 
 <h2 align='center'> 🧰 Tech Stack, Libraries & Tools </h2>
 </br>
@@ -161,6 +126,3 @@ Here are some ideas to get you started:
   <img src="https://camo.githubusercontent.com/529f3db66dcea87286a50a8bbb379acc5b6485805215e4cce5365aa43b7ddaca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d7768697465" />
   <img src="https://camo.githubusercontent.com/f868f43f3c084669121e55e633ca5c3e11d382872ab7db663789f5c736c71a43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" />
 </p>
-
-
-
