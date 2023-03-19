@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <a align='center' href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullianrives7" alt="jullianrives7" /></a>
-  <br>
+  </br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&" alt="jullianrives7" />
-  <br>
+  </br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&locale=en" alt="jullianrives7" />
-  <br>
+  </br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jullianrives7&show_icons=true&locale=en&layout=compact" alt="jullianrives7" />
 </div>
 
