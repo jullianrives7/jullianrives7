@@ -18,8 +18,8 @@
 Hi 👋, I'm Jullian
   <p align="center">
        <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+Welcome+To+My+Page;Progress+Daily" />
-   </p>
-  <h6 align="center">A passionate software developer located in Central Texas.</h6>
+       <h6 align="center">A passionate software developer located in Central Texas.</h6>
+  </p>
 </h1>
 
 <!------------------------------------------------------------------------------------------------>
