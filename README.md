@@ -43,17 +43,32 @@ Here are some ideas to get you started:
 <!------------------------------------ Views / Connect ------------------------------------------->
 
 <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=jullianrives7&style=for-the-badge" />
-  
-  </br>
   
   <h3 align="center">Connect with me:</h3>
   <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jullianrives7&style=for-the-badge" />
   <a href="https://linkedin.com/in/jullian-rives" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jullian-rives" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@theDrummersCode_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube: @theDrummersCode_7" height="30" width="40" /></a>
   </p>
   
 </p>  
+
+<!------------------------------------------------------------------------------------------------>
+</br>
+<!-------------------------------------- Main Tech Stack -------------------------------------------->
+
+ <div align="center">
+
+  <a align="center" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="200" height="200"/> </a> 
+  <a align="center" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="200" height="200"/> </a> 
+  <a align="center" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="200" height="200"/> </a> 
+  <a align="center" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="200" height="200"/> </a> 
+  </br>
+  <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a> 
+  <a align="center" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/> </a> 
+  <a align="center" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/> </a> 
+
+ </div>
 
 <!------------------------------------------------------------------------------------------------>
 </br>
@@ -92,20 +107,8 @@ Here are some ideas to get you started:
 </br>
   -->
 
-<h3 align="center">Languages and Tools:</h3>
 
- <div align="center">
 
-  <a align="center" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="200" height="200"/> </a> 
-  <a align="center" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="200" height="200"/> </a> 
-  <a align="center" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="200" height="200"/> </a> 
-  <a align="center" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="200" height="200"/> </a> 
-  </br>
-  <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a> 
-  <a align="center" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/> </a> 
-  <a align="center" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/> </a> 
-
- </div>
 
 
 
