@@ -4,7 +4,7 @@
 <p align='center'>
   
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+Welcome+To+My+Page;Progress+Daily" />
-<h5 align="center">A passionate software developer located in Central Texas.</h5>
+<h4 align="center">A passionate software developer located in Central Texas.</h4>
        
 </p>
 
