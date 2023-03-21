@@ -34,11 +34,10 @@
 </br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&" alt="jullianrives7" />
 </br>
-<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&locale=en" alt="jullianrives7" />
 </br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jullianrives7&show_icons=true&locale=en&layout=compact" alt="jullianrives7" />
--->
+
       
 </div>
 
