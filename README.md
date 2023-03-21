@@ -1,6 +1,6 @@
 <!------------------------------------ Header / Intro ------------------------------------------->
 
-<h1 align='center' paddingBottom="-10px">🥁   Hi 👋, I'm Jullian...   💻 🥷</h1>
+<h1 align='center' paddingBottom="-10px">🥁   Hi 👋, I'm Jullian... Welcome to my GitHub!   💻 🥷</h1>
 <p align='center'>
   
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+Welcome+To+My+Page;Progress+Daily" />
