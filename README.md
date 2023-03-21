@@ -3,8 +3,8 @@
 <h1 align='center' paddingBottom="-10px">🥁   Hi 👋, I'm Jullian... Welcome to my Github!   💻 🥷</h1>
   <p align='center'>
   
-       <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+Welcome+To+My+Page;Progress+Daily" />
-       <h6 align="center">A passionate software developer located in Central Texas.</h6>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!+Welcome+To+My+Page;Progress+Daily" />
+    <h6 align="center">A passionate software developer located in Central Texas.</h6>
        
   </p>
 
