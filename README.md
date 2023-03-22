@@ -43,7 +43,7 @@
 </br>
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jullianrives7&hide=stars&show_icons=true&title_color=FB8C00" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jullianrives7&hide=stars&show_icons=true&title_color=FB8C00&icon_color=FB8C00" />
   </a>
 </div>
 
