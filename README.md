@@ -36,10 +36,11 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&" alt="jullianrives7" />
 </br>
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&locale=en" alt="jullianrives7" />
 </br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jullianrives7&show_icons=true&locale=en&layout=compact" alt="jullianrives7" />
-
+-->
 <!--
 <a href="http://www.github.com/jullianrives7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 </br>
