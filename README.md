@@ -36,7 +36,7 @@
 </br>
 
 <!-- Streak Stats --> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&title_color=2f80ed" alt="jullianrives7" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7" alt="jullianrives7" />
 </br>
 
 <!-- Stats Card -->
