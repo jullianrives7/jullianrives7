@@ -39,6 +39,14 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&" alt="jullianrives7" />
 </br>
 
+<!-- Stats Card -->
+</br>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&theme=transparent" />
+  </a>
+</div>
+
 <!-- Most Used Languages --> 
 </br>
 <div style="display: flex; justify-content: center;">
