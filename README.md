@@ -38,27 +38,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&" alt="jullianrives7" />
 </br>
 
-<!-- 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&locale=en" alt="jullianrives7" />
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jullianrives7&show_icons=true&locale=en&layout=compact" alt="jullianrives7" />
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jullianrives7&show_icons=true&locale=en&layout=compact" alt="jullianrives7" />
--->
-
-<!--
-<a href="http://www.github.com/jullianrives7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-</br>
-<a href="http://www.github.com/jullianrives7"><img src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="jullianrives7's GitHub stats" /></a>
--->
-
-<!-- ?? --> 
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&locale=en" />
-  </a>
-</div>
-
 <!-- Most Used Languages --> 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
