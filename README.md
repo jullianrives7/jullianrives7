@@ -29,14 +29,16 @@
 <!-------------------------------------- GitHub Stats -------------------------------------------->
 <h1 align='center'> 📈 GitHub Stats </h1>
 <div align="center">
-  
+
+<!-- Trophies -->  
 <a align='center' href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullianrives7" alt="jullianrives7" /></a>
 </br>
 
-
+<!-- Streak Stats --> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&" alt="jullianrives7" />
 </br>
-<!--
+
+<!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&locale=en" alt="jullianrives7" />
 </br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jullianrives7&show_icons=true&locale=en&layout=compact" alt="jullianrives7" />
@@ -50,11 +52,14 @@
 <a href="http://www.github.com/jullianrives7"><img src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="jullianrives7's GitHub stats" /></a>
 -->
 
+<!-- ?? --> 
 <div style="display: flex; justify-content: center;">
-  <a href="http://www.github.com/jullianrives7">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&locale=en" />
   </a>
 </div>
+
+<!-- Most Used Languages --> 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="http://www.github.com/jullianrives7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jullianrives7&layout=compact" />
