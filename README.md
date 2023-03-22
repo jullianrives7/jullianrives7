@@ -39,7 +39,7 @@
 
 <div style="display: flex; justify-content: center;">
   <a href="https://github-readme-streak-stats.herokuapp.com/demo/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&theme=ayu-light" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jullianrives7&theme=vue" />
   </a>
 </div>
 </br>
