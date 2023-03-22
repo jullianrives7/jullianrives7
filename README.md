@@ -27,6 +27,7 @@
 <!------------------------------------------------------------------------------------------------>
 </br>
 <!-------------------------------------- GitHub Stats -------------------------------------------->
+
 <h1 align='center'> 📈 GitHub Stats </h1>
 <div align="center">
 
@@ -41,7 +42,7 @@
 <!-- Most Used Languages --> 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="http://www.github.com/jullianrives7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jullianrives7&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jullianrives7&layout=compact" />
   </a>
 </div>
       
