@@ -46,7 +46,7 @@
 </br>
 <a href="http://www.github.com/jullianrives7"><img src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="jullianrives7's GitHub stats" /></a>
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jullianrives7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
       
 </div>
 
