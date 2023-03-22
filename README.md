@@ -51,7 +51,7 @@
 </br>
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jullianrives7&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jullianrives7&layout=compact&title_color=FB8C00" />
   </a>
 </div>
       
