@@ -57,7 +57,7 @@
 </div>
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="http://www.github.com/jullianrives7"><img src="https://github-readme-stats.vercel.app/api?username=jullianrives7&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" />
+    <img align="center" src="http://www.github.com/jullianrives7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jullianrives7&layout=compact" />
   </a>
 </div>
       
