@@ -64,11 +64,11 @@
 
 <!-- Most Used Languages --> 
 
-<div style="display: flex; justify-content: center;">
-  <a>
+<!-- <div style="display: flex; justify-content: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jullianrives7&layout=compact" />
   </a>
-</div>
+</div> -->
       
 </div>
 
