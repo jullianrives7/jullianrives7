@@ -32,7 +32,7 @@
 <div align="center">
 
 <!-- Trophies -->  
-<a align='center' href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullianrives7&no-review=true" alt="jullianrives7" /></a>
+<a align='center' href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullianrives7&no-reviews=true" alt="jullianrives7" /></a>
 </br>
 
 <!-- Streak Stats --> 
