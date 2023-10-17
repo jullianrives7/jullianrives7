@@ -32,7 +32,7 @@
 <div align="center">
 
 <!-- Trophies -->  
-<a align='center' href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullianrives7&title=Commits,Issues,PullRequest,Followers" alt="jullianrives7" /></a>
+<a align='center' href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullianrives7&title=Commits,Issues,PullRequest,Followers&row=1&column=4" alt="jullianrives7" /></a>
 </br>
 
 <!-- Streak Stats --> 
