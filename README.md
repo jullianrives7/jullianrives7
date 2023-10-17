@@ -31,8 +31,10 @@
 <h1 align='center'> 📈 GitHub Stats </h1>
 <div align="center">
 
-<!-- Trophies -->  
+<!-- Trophies -->
+<div align="center">
 <a align='center' href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullianrives7&title=Commits,Issues,PullRequest,Followers&row=1&column=4" alt="jullianrives7" /></a>
+</div>
 </br>
 
 <!-- Streak Stats --> 
